@@ -1,0 +1,84 @@
+#wrapper
+       {width:700px;
+	   border:2px ridge #000000;
+	   margin:auto;
+	   outline-color: #000000;
+	   background-color: #000000;
+	   }
+#Wyatt{ 
+        width:660px;
+        border:1px dotted #255000;
+        margin: 20px 20px;
+        height:500px;
+        background-color:#A0A0A0;
+        color: rgb(255,255,255); 
+        text-align: center;
+
+         }
+ p{ text-align: center;
+ }
+#container1{
+             background-color:#2f4f4f;
+             width: 140px;
+             height: 140px;
+             float:left;
+             margin-left: 50px;
+             margin-top: 20px;
+
+}
+
+#container2{ background-color:#660330;
+             width: 140px;
+             margin-top: 20px;
+             height: 140px;
+             float:left;
+
+}
+#container3{background-color: #cc0000;
+            width: 140px;
+            margin-top: 20px;
+            height: 140px;
+            float:left;
+
+}
+#container4{background-color: #606060;
+            width: 140px;
+            margin-top: 20px;
+            height: 140px;
+            float:left;
+
+
+}
+#container5{background-color: #000066;
+            width: 280px;
+            margin-left: 50px;
+            height: 140px;
+            float:left;
+
+}
+#container6{background-color: #333300;
+            width: 280px;
+            height: 140px;
+            float:left;
+
+}
+#container7{background-color: #FF6666;
+            width: 280px;
+            margin-left: 50px;
+            height: 140px;
+            float:left;
+
+
+}
+#container8{background-color: #190033;
+            width: 280px;
+            height: 140px;
+            float:left;
+
+}
+#container9{background-color: #404040;
+            width: 140px;
+            height: 140px;
+
+}
+
